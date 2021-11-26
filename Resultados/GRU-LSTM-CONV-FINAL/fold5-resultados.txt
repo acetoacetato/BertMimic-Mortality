@@ -1,0 +1,15 @@
+clasificador: BiLSTM
+	f_score: 0,8392575053838899
+	recall: 0,49606299212598426
+	accuracy: 0,8108771929824561
+	auroc: 0,6688712495298642
+clasificador: Conv
+	f_score: 0,833804563077009
+	recall: 0,5
+	accuracy: 0,8028070175438596
+	auroc: 0,6662172573189522
+clasificador: GRU
+	f_score: 0,8447020972104547
+	recall: 0,468503937007874
+	accuracy: 0,82
+	auroc: 0,6614476541741989

@@ -1,0 +1,16 @@
+clasificador: SVM
+	f_score: 0.8158941289948427
+	recall: 0.8317492645394886
+	accuracy: 0.8159398156004299
+clasificador: NaiveGauss
+	f_score: 0.7592848462357322
+	recall: 0.8207739307535642
+	accuracy: 0.7601674302845184
+clasificador: xGBoost
+	f_score: 0.816774105920527
+	recall: 0.8256392849060874
+	accuracy: 0.8167882798800837
+clasificador: Decision Tree
+	f_score: 0.816774105920527
+	recall: 0.8256392849060874
+	accuracy: 0.8167882798800837
